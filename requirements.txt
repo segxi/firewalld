@@ -1,1 +1,14 @@
-
+ebtables 
+ipset 
+iptables 
+linux >= 5.3
+python3-dbus
+python3-gobject
+python3-nftables >= 0.9.4
+gettext
+intltool
+glib2
+glib2-devel
+systemd-units
+docbook-style-xsl
+libxslt
